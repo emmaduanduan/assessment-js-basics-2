@@ -1,0 +1,22 @@
+// This is the link for the google doc:
+https://docs.google.com/document/d/1e5I-N9SXMO4k2h2rhOn1ONavjN0jGYrrAOILdgquPOw/edit
+// This is the document content in case the link does not work:
+//
+
+Research on Technology Stack 
+
+Compnay #1  Nordstrom (one of my favorite shopping websites)
+Technology stack used:
+Nordstrom uses Python, JavaScript, jQuery, Node.js, React, HTML3, MySQL, MongoDB, BootStrap, AngularJS, Swift, Google Analytics and etc as its technology stack.
+Reasons:
+JavaScript, HTML5 are basically used for website designing. The others are used for backend, data store and analysis.
+Company #2 Wechat (China’s most popular social media now)
+Technology stack used:
+Ejabberd, IceWarp, iChat, Openfire,  Prosody, HTML5, Google Analytics, .
+Reasons: 
+WeChat is used by millions of people in China. Every minute, it needs to deal with billions of messages without delay. So besides the normal stack, it uses some specialized ones for online chatting.
+Company #3 Bilibili(China’s most popular video tubes now)
+Technology stack used:
+Bilibili uses HTML5, jQuery, Vue.js, webpack, Babel, JavaScript, Python, and Sentry.
+Reaons:
+Everyday users upload and watch so many videos and in order to make sure that all videos are smooth, these technologies are used.
